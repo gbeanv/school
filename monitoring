@@ -1,0 +1,3 @@
+sudo apt-get update -y
+sudp apt-get install htop
+htop
